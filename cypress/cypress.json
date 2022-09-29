@@ -1,0 +1,9 @@
+{
+    "baseUrl": "http://www.webdriveruniversity.com",
+    "chromeWebSecurity": false,
+
+    "env": {
+        "first_name": "Earl"
+    }
+
+}
